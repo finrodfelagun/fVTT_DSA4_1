@@ -1,0 +1,23 @@
+{
+    "name": "dsa41",
+    "title": "DSA 4.1",
+    "description": "Ein Foundry VTT System für Das Schwarze Auge 4.1",
+    "version": "0.1.0",
+    "author": "yyyyy",
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "scripts": ["module/dsa41.js"],
+    "styles": ["css/dsa41.css"],
+    "languages": [
+      {
+        "lang": "de",
+        "name": "Deutsch",
+        "path": "lang/de.json"
+      }
+    ],
+    "packs": [],
+    "system": true,
+    "esmodules": [],
+    "manifest": "yyyyy",
+    "download": "yyyyy"
+  }
